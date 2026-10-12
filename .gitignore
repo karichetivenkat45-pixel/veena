@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.env
+
+# Source material, not part of the site
+*.mp4
+*.pdf
+PP.jpeg
